@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="91" height="60" viewBox="0 0 91 60">
+  <g id="Group_10" data-name="Group 10" transform="translate(0.5 0.5)">
+    <g id="Group_6" data-name="Group 6">
+      <g id="Group_5" data-name="Group 5" transform="translate(0 47)">
+        <path id="Rectangle" d="M12,0V12H0" transform="translate(78)" fill="none" stroke="#d9d9d9" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Rectangle_Copy" data-name="Rectangle Copy" d="M-12,0V12H0" transform="translate(12)" fill="none" stroke="#d9d9d9" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+      <g id="Group_5_Copy" data-name="Group 5 Copy" transform="translate(0 12)">
+        <path id="Rectangle-2" data-name="Rectangle" d="M12,0V-12H0" transform="translate(78)" fill="none" stroke="#d9d9d9" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Rectangle_Copy-2" data-name="Rectangle Copy" d="M-12,0V-12H0" transform="translate(12)" fill="none" stroke="#d9d9d9" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="Brand_Symbol" data-name="Brand / Symbol" transform="translate(25 14)">
+      <path id="Fill_1" data-name="Fill 1" d="M31.795,0,30.478,4.231,15.9,14.758,1.313,4.231,0,0V5.409l15.89,9.972v0h.015v0l15.89-9.972Z" transform="translate(4.103)" fill="#d9d9d9"/>
+      <path id="Fill_2" data-name="Fill 2" d="M15.9,0,15.89,0V.008L0,9.981v5.4l1.313-4.23L15.9.626,30.478,11.155l1.316,4.23v-5.4L15.905.008V0Z" transform="translate(4.103 14.872)" fill="#d9d9d9"/>
+      <path id="Fill_3" data-name="Fill 3" d="M0,5.312v.495L18.062,2.466l-1.2,10.868L20,0Z" transform="translate(20 9.744)" fill="#d9d9d9"/>
+      <path id="Fill_4" data-name="Fill 4" d="M3.137,13.333,1.945,2.466,20,5.807V5.312L0,0Z" transform="translate(0 9.744)" fill="#d9d9d9"/>
+    </g>
+  </g>
+</svg>

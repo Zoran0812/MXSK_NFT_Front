@@ -1,0 +1,144 @@
+@font-face {
+    font-family: "Inter-Regular";
+    src: local("Inter-Regular"), url(./assets/fonts/Inter-Regular.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "PermanentMarker";
+    src: local("PermanentMarker"), url(./assets/fonts/PermanentMarker.ttf) format("truetype");
+}
+
+body {
+    margin: 0;
+    color: white;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+@media (max-width: 991px) {
+    button.navbar-toggler {
+        position: absolute;
+        right: 10px;
+        top: 32px;
+    }
+    div#responsive-navbar-nav {
+        margin-left: -31px;
+        margin-right: -31px;
+        padding: 0 10px;
+    }
+}
+
+.homeGallery .slick-prev {
+    height: 55px !important;
+}
+
+.homeGallery .slick-next {
+    height: 55px !important;
+}
+
+.homeGallery .slick-prev,
+.homeGallery .slick-next {
+    bottom: -126px;
+    top: auto;
+}
+
+.homeGallery .slick-prev path,
+.homeGallery .slick-next path {
+    stroke: #fff;
+}
+
+.modal-content {
+    background: #121212 !important;
+    border-radius: 5px !important;
+}
+
+.modal-header {
+    border-bottom: 0 !important;
+}
+
+.close {
+    font-size: 2.5rem !important;
+    font-weight: 200 !important;
+    color: #fff !important;
+    text-shadow: 0 0px 0 #fff !important;
+    opacity: 1 !important;
+}
+
+.modal-title {
+    color: #fff !important;
+    text-align: center;
+    display: block;
+    width: 100%;
+    margin-top: 30px;
+    font-size: 20px !important;
+    font-weight: 300 !important;
+    text-transform: uppercase;
+}
+
+.coust-title {
+    font-size: 28px !important;
+    text-transform: inherit;
+}
+
+.modal-header .close {
+    position: absolute;
+    right: 25px;
+}
+
+.modal-body {
+    padding: 2rem 2rem !important;
+    color: white;
+}
+
+@media (min-width: 576px) {
+  .modal-dialog {
+      max-width: 400px !important;
+  }
+}
+
+@media (max-width: 991px) {
+    .homeGallery .slick-prev {
+        height: 40px !important;
+    }
+    .homeGallery .slick-next {
+        height: 40px !important;
+    }
+    .homeGallery .slick-prev,
+    .homeGallery .slick-next {
+        bottom: -106px;
+    }
+}
+
+@-webkit-keyframes pulse {
+    0% {
+      transform: scale(1, 1);
+    }
+    25% {
+      transform: scale(1, 1);
+    }
+    50% {
+      transform: scale(1.5, 1.5);
+    }
+    100% {
+      transform: scale(1, 1);
+    }
+  }
+  
+  @keyframes pulse {
+    0% {
+      transform: scale(1, 1);
+    }
+    25% {
+      transform: scale(1, 1);
+    }
+    50% {
+      transform: scale(1.5, 1.5);
+    }
+    100% {
+      transform: scale(1, 1);
+    }
+  }

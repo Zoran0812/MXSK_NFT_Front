@@ -1,0 +1,7 @@
+<svg id="Icons_Arrow_Left_M_Primary" data-name="Icons / Arrow Left M Primary" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <rect id="Rectangle" width="40" height="40" fill="none"/>
+  <g id="Arrow_left" data-name="Arrow left" transform="translate(8 13)">
+    <path id="Path_2" data-name="Path 2" d="M15,14,0,7,15,0" fill="none" stroke="#d9d9d9" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Line_2" data-name="Line 2" d="M0,.5H24" transform="translate(1 6.5)" fill="none" stroke="#d9d9d9" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>
